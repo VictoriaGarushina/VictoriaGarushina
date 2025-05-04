@@ -4,7 +4,7 @@
   <img src="111-ezgif.com-video-to-gif-converter.gif" height="330px" align="right">
 </picture>
 
-I'm first-year student at **ITMO University**, diving headfirst into the world of tech and code 🚀
+I'm a student at **ITMO University**, diving headfirst into the world of tech and code 🚀
 
 - 🎓 Studying at the Faculty of Information Technologies and Programming
 - 🤝 Always open to student collabs, creative projects, or just nerdy conversations
